@@ -43,7 +43,7 @@ yarn start
 ├── configs                  # 程序配置文件
 │   └── server.conf.js   # 服务器配置文件
 ├── logs                     # 程序日志
-├── themes                   # yunle-cli应用主题
+├── themes                   # poetry-cli应用主题
 ├── nginx                    # nginx配置文件
 ├── test                     # 单元测试
 ├── Dockerfile               # dockerfile
