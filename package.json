@@ -1,0 +1,35 @@
+{
+  "name": "dva-next.js",
+  "version": "1.0.0",
+  "description": "dva-next.js-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next",
+    "build": "next build"
+  },
+  "author": "hopperhuang",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "antd": "^3.13.5",
+    "dva-no-router": "^1.0.3",
+    "less": "^3.9.0",
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.11.0",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-import-resolver-babel-module": "^5.0.1",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "next-compose-plugins": "^2.1.1"
+  }
+}
